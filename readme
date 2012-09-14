@@ -1,0 +1,5 @@
+Readme
+
+To convert GUI from QT Designer to a python script, use the following command in Command prompt in Windows:
+
+C:\Documents and Settings\men0004\My Documents\ComputerDefense\software>pyuic4 cdsGUI.ui>ui_cdsGUI.py
